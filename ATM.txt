@@ -1,4 +1,4 @@
-package karthickjava;
+package faziljava;
 import java.util.Scanner;
 
 class BankAccount {
